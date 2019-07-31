@@ -1,22 +1,104 @@
 {
-"products":[{"id":1,"name":"Toucan, white-throated","category":"Blue"},
-{"id":2,"name":"Galapagos mockingbird","category":"Puce"},
-{"id":3,"name":"Common nighthawk","category":"Indigo"},
-{"id":4,"name":"Turaco, violet-crested","category":"Puce"},
-{"id":5,"name":"Booby, masked","category":"Indigo"},
-{"id":6,"name":"Cockatoo, sulfur-crested","category":"Puce"},
-{"id":7,"name":"Grouse, greater sage","category":"Teal"},
-{"id":8,"name":"Bear, sloth","category":"Indigo"},
-{"id":9,"name":"Great egret","category":"Turquoise"},
-{"id":10,"name":"Wallaby, tammar","category":"Mauv"},
-{"id":11,"name":"Macaque, japanese","category":"Orange"},
-{"id":12,"name":"Cormorant, great","category":"Maroon"},
-{"id":13,"name":"Polecat, african","category":"Crimson"},
-{"id":14,"name":"Agile wallaby","category":"Maroon"},
-{"id":15,"name":"Zorro, azara's","category":"Purple"},
-{"id":16,"name":"Hartebeest, coke's","category":"Pink"},
-{"id":17,"name":"Burmese black mountain tortoise","category":"Teal"},
-{"id":18,"name":"Duck, comb","category":"Orange"},
-{"id":19,"name":"Heron, little","category":"Teal"},
-{"id":20,"name":"Pelican, eastern white","category":"Violet"}]
+  "products": [
+    {
+      "id": 1,
+      "name": "Toucan, white-throated",
+      "category": "Blue"
+    },
+    {
+      "id": 2,
+      "name": "Galapagos mockingbird",
+      "category": "Puce"
+    },
+    {
+      "id": 3,
+      "name": "Common nighthawk",
+      "category": "Indigo"
+    },
+    {
+      "id": 4,
+      "name": "Turaco, violet-crested",
+      "category": "Puce"
+    },
+    {
+      "id": 5,
+      "name": "Booby, masked",
+      "category": "Indigo"
+    },
+    {
+      "id": 6,
+      "name": "Cockatoo, sulfur-crested",
+      "category": "Puce"
+    },
+    {
+      "id": 7,
+      "name": "Grouse, greater sage",
+      "category": "Teal"
+    },
+    {
+      "id": 8,
+      "name": "Bear, sloth",
+      "category": "Indigo"
+    },
+    {
+      "id": 9,
+      "name": "Great egret",
+      "category": "Turquoise"
+    },
+    {
+      "id": 10,
+      "name": "Wallaby, tammar",
+      "category": "Mauv"
+    },
+    {
+      "id": 11,
+      "name": "Macaque, japanese",
+      "category": "Orange"
+    },
+    {
+      "id": 12,
+      "name": "Cormorant, great",
+      "category": "Maroon"
+    },
+    {
+      "id": 13,
+      "name": "Polecat, african",
+      "category": "Crimson"
+    },
+    {
+      "id": 14,
+      "name": "Agile wallaby",
+      "category": "Maroon"
+    },
+    {
+      "id": 15,
+      "name": "Zorro, azara's",
+      "category": "Purple"
+    },
+    {
+      "id": 16,
+      "name": "Hartebeest, coke's",
+      "category": "Pink"
+    },
+    {
+      "id": 17,
+      "name": "Burmese black mountain tortoise",
+      "category": "Teal"
+    },
+    {
+      "id": 18,
+      "name": "Duck, comb",
+      "category": "Orange"
+    },
+    {
+      "id": 19,
+      "name": "Heron, little",
+      "category": "Teal"
+    },
+    {
+      "id": 20,
+      "name": "Pelican, eastern white",
+      "category": "Violet"
+    }
+  ]
 }
