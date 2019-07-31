@@ -1,6 +1,11 @@
 {
   "products": [
     {
+      "id": 100,
+      "name": "Pitik Walik",
+      "category": "Blue"
+    },
+    {
       "id": 1,
       "name": "Toucan, white-throated",
       "category": "Blue"
