@@ -2,7 +2,7 @@
   "name": "PWAbagas",
   "short_name": "PWAbagas",
   "theme_color": "#e90000",
-  "background_color": "#880000",
+  "background_color": "#656959",
   "display": "standalone",
   "orientation": "portrait",
   "Scope": "/",
