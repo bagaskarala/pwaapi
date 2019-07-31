@@ -1,0 +1,23 @@
+{
+  "name": "PWAbagas",
+  "short_name": "PWAbagas",
+  "theme_color": "#e90000",
+  "background_color": "#880000",
+  "display": "standalone",
+  "orientation": "portrait",
+  "Scope": "/",
+  "start_url": "/index.html",
+  "icons": [
+    {
+      "src": "/images/avatar.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/avatar.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "splash_pages": null
+}
